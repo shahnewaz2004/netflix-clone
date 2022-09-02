@@ -1,0 +1,1 @@
+export const API_KEY='Here will be your own registered TMBD API key';
